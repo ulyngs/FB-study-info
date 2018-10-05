@@ -12,4 +12,4 @@ If you are interested, please contact Ulrik Lyngs (Department of Computer Scienc
 
 **You will be compensated for your time.** You will also receive data and visualisations of your own Facebook use which you may find useful and thought-provoking.
 
-![](fb-distraction.jpg)
+![](cs-logo.png)

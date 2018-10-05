@@ -1,4 +1,4 @@
-# Participants wanted for study on Facebook distraction
+# Participants wanted for study of Facebook distraction
 
 ![](fb-distraction.jpg)
 

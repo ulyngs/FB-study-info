@@ -8,7 +8,7 @@ We are doing a study to learn which parts of Facebook distract users and what mi
 
 You would come with your laptop to a room at your college twice, for about 20 minutes, fill in questionnaires about yourself and how you use Facebook, and install a browser extension that measures the time you spend.
 
-If you are interested, please contact Ulrik Lyngs (Department of Computer Science, University of Oxford) on ulrik.lyngs@cs.ox.ac.uk. There is no obligation to take part.
+If you are interested, please contact Ulrik Lyngs (Department of Computer Science, University of Oxford) on <a href="mailto:ulrik.lyngs@cs.ox.ac.uk">ulrik.lyngs@cs.ox.ac.uk</a>. There is no obligation to take part.
 
 **You will be compensated for your time.** You will also receive data and visualisations of your own Facebook use which you may find useful and thought-provoking.
 

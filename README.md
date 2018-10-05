@@ -1,6 +1,6 @@
 # Participants wanted for study on Facebook distraction
 
-![](images/fb-distraction.png)
+![](fb-distraction.jpg)
 
 Are you often distracted by Facebook while you work?
 
@@ -12,4 +12,4 @@ If you are interested, please contact Ulrik Lyngs (Department of Computer Scienc
 
 **You will be compensated for your time.** You will also receive data and visualisations of your own Facebook use which you may find useful and thought-provoking.
 
-![](images/fb-distraction.png)
+![](fb-distraction.jpg)

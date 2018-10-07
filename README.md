@@ -4,9 +4,9 @@
 
 Are you often distracted by Facebook while you work?
 
-Human Centered Computing are doing a study to learn which parts of Facebook distract users and what might be done about it. We are looking for student participants at Oxford University (non-freshers), aged 18-30.
+Researchers at the Oxford Department of Computer Science are doing a study to learn which parts of Facebook distract users and what might be done about it. We are looking for student participants at the University of Oxford (**1st-year students excluded**), aged 18-30.
 
-You would come with your laptop to a room at your college twice, for about 20 minutes, fill in questionnaires about yourself and how you use Facebook, and install a browser extension that measures the time you spend.
+To participate, you would come with your laptop to a room at your college twice, for about 20 minutes, fill in questionnaires about yourself and how you use Facebook, and install a browser extension that measures the time you spend.
 
 If you are interested, please contact Ulrik Lyngs (Department of Computer Science, University of Oxford) on <a href="mailto:ulrik.lyngs@cs.ox.ac.uk">ulrik.lyngs@cs.ox.ac.uk</a>. There is no obligation to take part.
 

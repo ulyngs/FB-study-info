@@ -14,8 +14,6 @@ If you are interested, please contact Ulrik Lyngs (Department of Computer Scienc
 
 <br/>
 
-*This research project has received ethics approval (ref no. SSD/CUREC1A CS_C1A_18_023) by the Computer Science Departmental Research Ethics Committee, at the University of Oxford, UK*
-
-<br/>
-
 ![](cs-logo.png)
+
+*This research project has received ethics approval (ref no. SSD/CUREC1A CS_C1A_18_023) by the Computer Science Departmental Research Ethics Committee, at the University of Oxford, UK*
